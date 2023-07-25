@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit M Patil</h1>
+
 <h3 align="center">I'm robotics engineer and full-stack developer with interest in large-scale software applications, computer vision, machine learning and deep learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roniepatil&label=Profile%20views&color=0e75b6&style=flat" alt="roniepatil" /> </p>
