@@ -1,5 +1,5 @@
 
-<h3 align="center">I'm robotics engineer and full-stack developer with interest in large-scale software applications, computer vision, machine learning and deep learning</h3>
+<h3 align="center">I'm ML/AI and robotics engineer, with full-stack experience and interest in large-scale software applications, computer vision, machine learning and deep learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roniepatil&label=Profile%20views&color=0e75b6&style=flat" alt="roniepatil" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/roniepatil](https://github.com/roniepatil)
 
-- 💬 Ask me about **robotics and software development**
+- 💬 Ask me about **AI, robotics and software development**
 
 - ⚡ Fun fact **Sketch artist**
 
